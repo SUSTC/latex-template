@@ -1,6 +1,6 @@
-# SUSTech Latex 模板目录
+# SUSTech LaTex 模板目录
 
-本项目包含多种面向 SUSTech 成员的 Latex 模板（含 Mod）。
+本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。
 欢迎添加模板链接（Pull request / Issue）。
 
 ## Thesis

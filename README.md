@@ -7,6 +7,7 @@
 * 南科大本科生毕业论文(Spacebody)：https://github.com/Spacebody/sustcthesis 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Spacebody/sustcthesis)
 * 南科大本科生毕业论文(Peng-YM)：https://github.com/Peng-YM/SUSTech-Thesis 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Peng-YM/SUSTech-Thesis)
 * 南科大硕士毕业论文开题报告：https://github.com/liziwl/Master-FirstReport-Latex 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/liziwl/Master-FirstReport-Latex)
+* 南方科技大学研究生毕业论文模板：https://github.com/liziwl/sustech-master-thesis 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/liziwl/sustech-master-thesis)
 * 哈尔滨工业大学-南方科技大学研究生联培LaTeX论文模板：https://github.com/HawkTom/sustech-hithesis 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/HawkTom/sustech-hithesis)
 
 ## Beamer

@@ -15,6 +15,7 @@
 * SUSTC slides: https://github.com/SUSTC/sustech-slides 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SUSTC/sustech-slides)
 * 南科大模板，深港微模板: https://github.com/Sakuranetin/LaTeX-Beamer 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Sakuranetin/LaTeX-Beamer)
 * 南科大通用模版2：https://github.com/Tonanguyxiro/SUSTech-Slide-Template 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Tonanguyxiro/SUSTech-Slide-Template)
+* 南科大模版-萧山汉风主题：https://github.com/liziwl/sustech-xiaosan-beamer 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/liziwl/sustech-xiaosan-beamer)
 
 ## Homework
 

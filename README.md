@@ -1,7 +1,9 @@
-# SUSTech LaTex 模板目录
+# SUSTech LaTeX 模板目录
 
 本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。
 欢迎添加模板链接（Pull request / Issue）。
+
+《LaTeX入门》讲座 by 计算机研究协会 CRA：https://github.com/SUSTech-CRA/latex-talk
 
 ## Thesis
 * 南科大本科生毕业论文(Spacebody)：https://github.com/Spacebody/sustcthesis 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Spacebody/sustcthesis)

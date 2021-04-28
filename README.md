@@ -5,6 +5,8 @@
 
 《LaTeX入门》讲座 by 计算机研究协会 CRA：https://github.com/SUSTech-CRA/latex-talk
 
+CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
+
 ## Thesis
 * 【本科-毕业论文】 by Spacebody：https://github.com/Spacebody/sustcthesis 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Spacebody/sustcthesis)
 * 【本科-毕业论文】 by Peng-YM：https://github.com/Peng-YM/SUSTech-Thesis 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Peng-YM/SUSTech-Thesis)

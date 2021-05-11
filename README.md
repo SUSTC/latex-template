@@ -1,11 +1,13 @@
 # SUSTech LaTeX 模板目录
 
 本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。
-欢迎添加模板链接（Pull request / Issue）。
+**欢迎添加模板链接（Pull request / Issue），参与编写模版，维护仓库。**
 
 《LaTeX入门》讲座 by 计算机研究协会 CRA：[SUSTech-CRA/latex-talk](https://github.com/SUSTech-CRA/latex-talk)
 
 CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
+
+南科大LaTex学习交流群：119667812
 
 ## 论文 Thesis
 * 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)

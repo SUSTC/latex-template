@@ -10,7 +10,7 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 
 南科大LaTex学习交流群：119667812
 
-南科大sharelatex校内镜像：sharelatex.cra.moe(与overleaf一样的功能)
+南科大sharelatex校内镜像：https://sharelatex.cra.moe(与overleaf一样的功能)
 
 ## 论文 Thesis
 * 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)

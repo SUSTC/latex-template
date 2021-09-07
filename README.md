@@ -16,11 +16,11 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 * 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)
 * 【硕士-开题/年度考核报告】 by liziwl：[liziwl/sustech-master-reports](https://github.com/liziwl/sustech-master-reports) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/liziwl/sustech-master-reports)
 * 【硕博-毕业论文】 by liziwl：[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SUSTech-CRA/sustech-master-thesis)
-* 【硕博-毕业论文-哈工大联培】 by HawTom：[HawkTom/sustech-hithesis](https://github.com/HawkTom/sustech-hithesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/HawkTom/sustech-hithesis)
 
-### Deprecated （不再维护）
+### 不再维护 Deprecated
 * 【本科-毕业论文】 by Spacebody：[Spacebody/sustcthesis](https://github.com/Spacebody/sustcthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Spacebody/sustcthesis)
 * 【本科-毕业论文】 by Peng-YM：[Peng-YM/SUSTech-Thesis](https://github.com/Peng-YM/SUSTech-Thesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Peng-YM/SUSTech-Thesis)
+* 【硕博-毕业论文-哈工大联培】 by HawTom：[HawkTom/sustech-hithesis](https://github.com/HawkTom/sustech-hithesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/HawkTom/sustech-hithesis)
 
 ## 幻灯片 Beamer
 

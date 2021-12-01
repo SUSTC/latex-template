@@ -34,5 +34,7 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 
 ## LaTeX学习/培训材料
 
-* 2021年3月《LaTeX入门》讲座 by 计算机研究协会 CRA：[SUSTech-CRA/latex-talk](https://github.com/SUSTech-CRA/latex-talk)
-* 2021年10月《LaTeX 入门 - 以研究生论文模版为例》南方科技大学研究生院材料 by 计算机研究协会 CRA：[SUSTech-CRA/latex-talk-graduate](https://github.com/SUSTech-CRA/latex-talk-graduate)
+* 【slide】 2021年3月《LaTeX入门》讲座 by 计算机研究协会 CRA：[SUSTech-CRA/latex-talk](https://github.com/SUSTech-CRA/latex-talk)
+* 【slide】 2021年10月《LaTeX 入门 - 以研究生论文模版为例》南方科技大学研究生院材料 by 计算机研究协会 CRA：[SUSTech-CRA/latex-talk-graduate](https://github.com/SUSTech-CRA/latex-talk-graduate)
+* 【video】 [2021-11-28 南科大新青年大讲堂 Latex入门培训（Bilibili）](https://www.bilibili.com/video/BV1JR4y1476Z/)
+* 【video】 [2021-11-05 南方科技大学研究生学位论文 LaTeX 模板操作指南（Bilibili）](https://www.bilibili.com/video/BV1JU4y1g7bH)

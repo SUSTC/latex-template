@@ -12,6 +12,7 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 
 ## 论文 Thesis
 * 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)
+* 【本科-材料科学与工程系-毕业论文】 by fiddleyowl based on [Iydon/sustechthesis](https://github.com/Iydon/sustechthesis)：[fiddleyowl/sustechthesis-mse](https://github.com/fiddleyowl/sustechthesis-mse) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fiddleyowl/sustechthesis-mse)
 * 【本科-毕业论文-markdown】 by fecet：[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fecet/sustechthesis-markdown)
 * 【硕博-毕业论文/开题/年度考核报告】 by liziwl：[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SUSTech-CRA/sustech-master-thesis)
 

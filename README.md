@@ -1,6 +1,6 @@
 # SUSTech LaTeX 模板目录 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SUSTC.latex-template.README" />
 
-本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。以下模板推荐使用overleaf或ShareLaTeX进行个人使用。
+本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。以下模板推荐使用Overleaf或ShareLaTeX进行个人使用。
 
 **欢迎添加模板链接（Pull request / Issue），参与编写模版，维护仓库。**
 

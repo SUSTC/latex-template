@@ -1,6 +1,6 @@
 # SUSTech LaTeX 模板目录 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SUSTC.latex-template.README" />
 
-本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。以下模板推荐使用overleaf或sharelatex进行个人使用。
+本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。以下模板推荐使用overleaf或ShareLaTeX进行个人使用。
 
 **欢迎添加模板链接（Pull request / Issue），参与编写模版，维护仓库。**
 
@@ -8,7 +8,7 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 
 南科大 LaTeX 学习交流群：119667812
 
-南科大 Sharelatex 校内部署：https://sharelatex.cra.moe （覆盖大部分 Overleaf 功能）
+南科大 ShareLaTeX 校内部署：https://sharelatex.cra.ac.cn/ （覆盖大部分 Overleaf 功能）
 
 ## 论文 Thesis
 * 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)

@@ -12,7 +12,8 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 
 ## 论文 Thesis
 * 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)
-* 【本科-材料科学与工程系-毕业论文】 by fiddleyowl based on [Iydon/sustechthesis](https://github.com/Iydon/sustechthesis)：[fiddleyowl/sustechthesis-mse](https://github.com/fiddleyowl/sustechthesis-mse) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fiddleyowl/sustechthesis-mse)
+* 【本科-机械与能源工程系-毕业论文】 by SeaHI-Robot：[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SeaHI-Robot/SUSTechThesis2024MEE)
+* 【本科-材料科学与工程系-毕业论文】 by fiddleyowl：[fiddleyowl/sustechthesis-mse](https://github.com/fiddleyowl/sustechthesis-mse) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fiddleyowl/sustechthesis-mse)
 * 【本科-毕业论文-markdown】 by fecet：[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fecet/sustechthesis-markdown)
 * 【硕博-毕业论文/开题/年度考核报告】 by liziwl：[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SUSTech-CRA/sustech-master-thesis)
 
@@ -27,6 +28,7 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 * 南科大模板、深港微模板: [Sakuranetin/LaTeX-Beamer](https://github.com/Sakuranetin/LaTeX-Beamer) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Sakuranetin/LaTeX-Beamer)
 * 南科大通用模版2：[Tonanguyxiro/SUSTech-Slide-Template](https://github.com/Tonanguyxiro/SUSTech-Slide-Template) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Tonanguyxiro/SUSTech-Slide-Template)
 * 南科大模版-萧山汉风主题：[liziwl/sustech-xiaosan-beamer](https://github.com/liziwl/sustech-xiaosan-beamer) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/liziwl/sustech-xiaosan-beamer)
+* 南科大Marp学术汇报主题：[SeaHI-Robot/sustech-academic-marp-theme](https://github.com/SeaHI-Robot/sustech-academic-marp-theme) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SeaHI-Robot/sustech-academic-marp-theme)
 
 ## 报告/作业 Homework
 

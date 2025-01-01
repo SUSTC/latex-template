@@ -35,6 +35,11 @@ CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
 * 南科大机械系作业模版: [zhuhu00/SUSTech_hw_template](https://github.com/zhuhu00/SUSTech_hw_template) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/zhuhu00/SUSTech_hw_template)
 * 南科大通用作业模版: [ziqin/LaTeX-SUSTechHomework](https://github.com/ziqin/LaTeX-SUSTechHomework) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/ziqin/LaTeX-SUSTechHomework)
 
+## 信件/推荐信 Letter
+
+* 推荐信/正式信件模板（改编自加州大学伯克利信件模板）[RUSRUSHB/SUSTech_Letterhead_LaTeX](https://github.com/RUSRUSHB/SUSTech_Letterhead_LaTeX) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/RUSRUSHB/SUSTech_Letterhead_LaTeX)
+* 推荐信/正式信件模板（改编自俄勒冈州立大学信件模板）[SUSTech Recommendation Letter Template](https://cs.overleaf.com/latex/templates/sustech-recommendation-letter-template/sccdtpcmfdsv)
+
 ## LaTeX学习/培训材料
 
 * 【slide】 2021年3月《LaTeX入门》讲座 by 计算机研究协会 CRA：[SUSTech-CRA/latex-talk](https://github.com/SUSTech-CRA/latex-talk)

@@ -1,21 +1,35 @@
-# SUSTech LaTeX 模板目录
+# SUSTech 写作模板目录
 
-本项目包含多种面向 SUSTech 成员的 LaTex 模板（含 Mod）。以下模板推荐使用Overleaf或ShareLaTeX进行个人使用。
+本项目包含多种面向 SUSTech 成员的写作模板（含 Mod），包括 LaTeX、Liii STEM 等多种格式。
 
 **欢迎添加模板链接（Pull request / Issue），参与编写模版，维护仓库。**
 
-CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
+* CTAN@南科大镜像站：https://mirrors.sustech.edu.cn/CTAN/
+* 南科大 LaTeX 学习交流群：119667812
+* 南科大 墨干/Liii STEM 社区：775378763
 
-南科大 LaTeX 学习交流群：119667812
+### 编辑器
 
-南科大 ShareLaTeX 校内部署：https://sharelatex.cra.ac.cn/ （覆盖大部分 Overleaf 功能）
+**LaTeX**
+* 使用 [南科大 ShareLaTeX](https://sharelatex.cra.ac.cn/)（[校外地址](https://sharelatex-ext.cra.ac.cn/login)），使用方式与Overleaf相同，上传 zip 压缩包后，更改编译器为 `XeLaTeX`，并在主文档的头部 `\documentclass[degree=master,language=english,cjk-font=external]` 设置 `cjk-font` 参数 为 `external`。
+* 使用 [LoongTeX](https://www.loongtex.com/)，上传 zip 压缩包后，选择编译的主文档，并将编译选项设置为 `XeLaTeX`。
+* 使用 [TeXPage](https://www.texpage.com/)，上传 zip 压缩包后，选择编译的主文档，并将编译选项设置为 `XeLaTeX`。
+* 使用 [Overleaf](https://www.overleaf.com/)（需要科学上网保证稳定使用），上传 zip 压缩包后，更改编译器为 `XeLaTeX`
+  * ⚠️ 由于Overleaf将免费账户的超时时间缩短到20秒，而本项目的常规编译时间为30秒以上，因此如果您在使用免费账户，可能无法成功完成项目的编译。[Overleaf官方声明](https://www.overleaf.com/blog/changes-to-free-compile-timeouts-and-servers)
+
+**Mogan/Liii STEM**
+* [Liii STEM](https://www.liiistem.cn/)：商业版 Mogan 部分功能需要订阅。
+* [Mogan STEM](https://mogan.app/zh/)：完全免费，且开源。
+
 
 ## 论文 Thesis
-* 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)
+* 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis)（包含 LaTeX 和 [Liii STEM](https://www.liiistem.cn/) 模版）最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)
+* 【本科-毕业论文-Typst】 by wyatt-feng：[wyatt-feng/sustech-ug-thesis-typst](https://github.com/wyatt-feng/sustech-ug-thesis-typst) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/wyatt-feng/sustech-ug-thesis-typst)
 * 【本科-机械与能源工程系-毕业论文】 by SeaHI-Robot：[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SeaHI-Robot/SUSTechThesis2024MEE)
 * 【本科-材料科学与工程系-毕业论文】 by fiddleyowl：[fiddleyowl/sustechthesis-mse](https://github.com/fiddleyowl/sustechthesis-mse) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fiddleyowl/sustechthesis-mse)
 * 【本科-毕业论文-markdown】 by fecet：[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fecet/sustechthesis-markdown)
 * 【硕博-毕业论文/开题/年度考核报告】 by liziwl：[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SUSTech-CRA/sustech-master-thesis)
+
 
 ### 不再维护 Deprecated
 * 【本科-毕业论文】 by Spacebody：[Spacebody/sustcthesis](https://github.com/Spacebody/sustcthesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Spacebody/sustcthesis)

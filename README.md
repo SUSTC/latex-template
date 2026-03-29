@@ -25,6 +25,7 @@
 ## 论文 Thesis
 * 【本科-毕业论文】 by Iydon：[Iydon/sustechthesis](https://github.com/Iydon/sustechthesis)（包含 LaTeX 和 [Liii STEM](https://www.liiistem.cn/) 模版）最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Iydon/sustechthesis)
 * 【本科-毕业论文-Typst】 by wyatt-feng：[wyatt-feng/sustech-ug-thesis-typst](https://github.com/wyatt-feng/sustech-ug-thesis-typst) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/wyatt-feng/sustech-ug-thesis-typst)
+* 【本硕博-毕业论文-Typst】 by lace-wing：[lace-wing/lacy-sustech-thesis.typ](https://github.com/lace-wing/lacy-sustech-thesis.typ)（已上传至 [Typst Universe](https://typst.app/universe/package/modern-sustech-thesis)，支持通过参数切换本科/硕博模板）最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/lace-wing/lacy-sustech-thesis.typ)
 * 【本科-机械与能源工程系-毕业论文】 by SeaHI-Robot：[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/SeaHI-Robot/SUSTechThesis2024MEE)
 * 【本科-材料科学与工程系-毕业论文】 by fiddleyowl：[fiddleyowl/sustechthesis-mse](https://github.com/fiddleyowl/sustechthesis-mse) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fiddleyowl/sustechthesis-mse)
 * 【本科-毕业论文-markdown】 by fecet：[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/fecet/sustechthesis-markdown)

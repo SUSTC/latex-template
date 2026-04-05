@@ -49,6 +49,7 @@
 
 * 南科大机械系作业模版: [zhuhu00/SUSTech_hw_template](https://github.com/zhuhu00/SUSTech_hw_template) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/zhuhu00/SUSTech_hw_template)
 * 南科大通用作业模版: [ziqin/LaTeX-SUSTechHomework](https://github.com/ziqin/LaTeX-SUSTechHomework) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/ziqin/LaTeX-SUSTechHomework)
+* 南科大通用作业/实验报告模版（功能扩展版）: [Wellshh/Sustech-report-template](https://github.com/Wellshh/Sustech-report-template)（XeLaTeX；较通用作业模板增强封面、多作者、文献与代码、图表与工程图等）最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/Wellshh/Sustech-report-template)
 
 ## 信件/推荐信 Letter
 
